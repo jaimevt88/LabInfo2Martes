@@ -1,7 +1,7 @@
 #include <iostream>
 /*
  * ESto es un código de prueba
- *
+ *Esto es otro comentario
  *
  */
 void redArr(int*& arr, int& capacidad){
