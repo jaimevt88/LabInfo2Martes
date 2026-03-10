@@ -1,5 +1,9 @@
 #include <iostream>
-
+/*
+ * ESto es un código de prueba
+ *
+ *
+ */
 void redArr(int*& arr, int& capacidad){
 
     int nuevaCap = capacidad * 2;
